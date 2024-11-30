@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jack Frost ($FROSTY)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div class="logo">❄️ Jack Frost ($FROSTY)</div>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#tokenomics">Tokenomics</a></li>
+        <li><a href="#roadmap">Roadmap</a></li>
+        <li><a href="#community">Community</a></li>
+        <li><a href="#buy">Buy $FROSTY</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <h1>Meet $FROSTY – The Coolest Memecoin on Solana!</h1>
+    <p>Fast, fun, and frost-powered! Join the movement today.</p>
+    <div class="cta-buttons">
+      <a href="#buy" class="btn">Buy $FROSTY Now</a>
+      <a href="#community" class="btn btn-secondary">Join Our Telegram</a>
+    </div>
+  </section>
+
+  <section id="features" class="features">
+    <h2>Why Choose $FROSTY?</h2>
+    <div class="feature-cards">
+      <div class="card">
+        <h3>⚡ Ultra-Fast Transactions</h3>
+        <p>Powered by the lightning speed of Solana.</p>
+      </div>
+      <div class="card">
+        <h3>🎁 Staking Rewards</h3>
+        <p>Stake $FROSTY and earn frosty rewards.</p>
+      </div>
+      <div class="card">
+        <h3>❄️ Exclusive NFTs</h3>
+        <p>Unlock rare, frost-themed NFTs just for holders.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2024 Jack Frost ($FROSTY). All rights reserved.</p>
+    <div class="social-links">
+      <a href="#">Twitter</a>
+      <a href="#">Telegram</a>
+      <a href="#">Discord</a>
+    </div>
+  </footer>
+</body>
+</html>
